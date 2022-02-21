@@ -7,10 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="categorie_save.php" method="post">
+    <form action="category_save.php" method="post">
         <div>
             <label> Name </label>
-            <input type="test" value="" name="name" placeholder="Placer ici votre nom">
+            <input type="test" value="name" name="name" placeholder="Placer ici votre nom">
             <input type="submit" value="Envoyer">
 </form>
     
